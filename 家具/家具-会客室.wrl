@@ -1,0 +1,11 @@
+#VRML V2.0 utf8
+
+
+Inline {url  "./会客室/会客室书架.wrl"}
+Inline {url  "./会客室/会客室沙发.wrl"}
+Inline {url  "./会客室/会客室书1.wrl"}
+Inline {url  "./会客室/会客室书2.wrl"}
+Inline {url  "./会客室/会客室书3.wrl"}
+Inline {url  "./会客室/会客室相框.wrl"}
+Inline {url  "./会客室/瓶子.wrl"}
+

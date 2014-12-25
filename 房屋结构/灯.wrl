@@ -1,0 +1,1732 @@
+#VRML V2.0 utf8
+
+
+ DEF LITS Transform {
+  translation -22.38 2.6 -3.23
+   children [
+
+    DEF ___0 Transform {
+      translation 1.311 0.01 -3.894
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF ___0-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF ___0-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF ___0-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF ___0-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __015 Transform {
+      translation 4.527 0.01 -2.435
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __015-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __015-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __015-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __015-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __016 Transform {
+      translation 4.858 0.01 -1.485
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __016-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __016-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __016-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __016-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __017 Transform {
+      translation 5.193 0.01 -0.531
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __017-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __017-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __017-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __017-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __018 Transform {
+      translation -0.05586 0.01 -1.261
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __018-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __018-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __018-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __018-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __019 Transform {
+      translation -1.757 0.01 -2.329
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __019-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __019-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __019-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __019-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __020 Transform {
+      translation -3.042 0.01 -3.777
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __020-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __020-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __020-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __020-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __021 Transform {
+      translation -3.389 0.01 -1.713
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __021-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __021-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __021-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __021-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __022 Transform {
+      translation 4.51 0.01 1.593
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __022-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __022-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __022-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __022-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __023 Transform {
+      translation 4.526 0.01 2.549
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __023-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __023-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __023-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __023-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __10_0 Transform {
+      translation 4.501 0.01 3.484
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __10_0-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __10_0-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __10_0-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __10_0-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __12 Transform {
+      translation 5.688 0.009999 5.508
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __12-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __12-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __12-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __12-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __13 Transform {
+      translation 4.661 0.009999 6.154
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __13-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __13-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __13-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __13-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __14_0 Transform {
+      translation -0.3646 0.01 -6.154
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __14_0-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __14_0-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __14_0-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __14_0-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __15_0 Transform {
+      translation -1.481 0.01 -6.148
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __15_0-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __15_0-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __15_0-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __15_0-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __16 Transform {
+      translation 2.575 0.01 3.434
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __16-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __16-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __16-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __16-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __17 Transform {
+      translation 2.575 0.01 2.097
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __17-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __17-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __17-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __17-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __18 Transform {
+      translation 2.575 0.01 0.7918
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __18-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __18-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __18-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __18-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __19 Transform {
+      translation 1.208 0.01 2.097
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __19-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __19-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __19-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __19-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __20_0 Transform {
+      translation 1.208 0.01 0.7918
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __20_0-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __20_0-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __20_0-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __20_0-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __21 Transform {
+      translation 1.208 0.01 3.434
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __21-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __21-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __21-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __21-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __22_0 Transform {
+      translation -0.08008 0.01 2.097
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __22_0-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __22_0-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __22_0-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __22_0-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __23 Transform {
+      translation -0.08008 0.01 0.7918
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __23-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __23-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __23-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __23-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __24 Transform {
+      translation -0.08008 0.01 3.434
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __24-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __24-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __24-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __24-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __25 Transform {
+      translation -4.05 0.01 0.1665
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __25-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __25-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __25-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __25-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __26 Transform {
+      translation -4.062 0.01 0.5234
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __26-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __26-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __26-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __26-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __27 Transform {
+      translation -1.693 0.01 4.641
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __27-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __27-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __27-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __27-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __28 Transform {
+      translation -1.688 0.01 -0.1526
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __28-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __28-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __28-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __28-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __29 Transform {
+      translation -1.688 0.01 0.4335
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __29-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __29-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __29-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __29-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __30 Transform {
+      translation -1.688 0.01 1.02
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __30-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __30-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __30-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __30-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __31 Transform {
+      translation -5.516 0.01 0.6208
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __31-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __31-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __31-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __31-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __32 Transform {
+      translation -6.761 0.01 0.6208
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __32-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __32-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __32-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __32-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __33 Transform {
+      translation -6.761 0.01 1.722
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __33-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __33-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __33-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __33-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __34 Transform {
+      translation -5.516 0.01 1.722
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __34-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __34-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __34-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __34-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __35 Transform {
+      translation -6.761 0.01 2.866
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __35-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __35-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __35-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __35-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __36 Transform {
+      translation -5.516 0.01 2.866
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __36-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __36-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __36-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __36-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __37 Transform {
+      translation -4.258 0.01 3.35
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __37-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __37-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __37-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __37-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __38 Transform {
+      translation -3.769 0.01 3.35
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __38-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __38-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __38-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __38-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __39 Transform {
+      translation -3.278 0.01 3.35
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __39-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __39-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __39-COORD Coordinate { point [
+                -0.1 -1.51e-008 0.2, -0.1 -1.51e-008 -0.2, 0.1 1.51e-008 -0.2, 
+                0.1 1.51e-008 0.2, -0.1 -0.02 0.2, -0.1 -0.02 -0.2, 
+                0.1 -0.02 -0.2, 0.1 -0.02 0.2]
+              }
+              texCoord DEF __39-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    },
+    DEF __40 Transform {
+      translation 6.661 0.009999 4.886
+      children [
+        Shape {
+            appearance Appearance {
+              material DEF __40-MATERIAL Material {
+                diffuseColor 1 1 1
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.145
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/µÆ.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF __40-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF __40-COORD Coordinate { point [
+                0.2 -1.51e-008 0.1, -0.2 -1.51e-008 0.1, -0.2 1.51e-008 -0.1, 
+                0.2 1.51e-008 -0.1, 0.2 -0.02 0.1, -0.2 -0.02 0.1, 
+                -0.2 -0.02 -0.1, 0.2 -0.02 -0.1]
+              }
+              texCoord DEF __40-TEXCOORD TextureCoordinate { point [
+                0.9995 0.0004995, 0.0004995 0.0005, 0.0004996 0.9995, 
+                0.9995 0.9995, 0.9995 0.0004995, 0.0004995 0.0005, 
+                0.0004996 0.9995, 0.9995 0.9995]
+              }
+              coordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              texCoordIndex [
+                0, 1, 5, -1, 0, 5, 4, -1, 1, 2, 6, -1, 1, 6, 5, -1, 
+                2, 3, 7, -1, 2, 7, 6, -1, 3, 0, 4, -1, 3, 4, 7, -1, 
+                6, 7, 4, -1, 6, 4, 5, -1]
+              }
+          }
+      ]
+    }
+ 
+]}
+
+
+

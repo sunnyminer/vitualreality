@@ -1,0 +1,23 @@
+#VRML V2.0 utf8
+
+    DEF Sphere05 Transform {
+      translation 20.88 -0.8539 0.5589
+      children [
+		  Inline  {url "s1.wrl"}					
+		  Inline  {url "s2.wrl"}   
+          Inline  {url "s4.wrl"}
+          Inline  {url "s5.wrl"}
+		    ]
+    }
+	 	 DEF TVD Transform {
+      translation 2.07 -0.4229 0.2475
+      children [
+				Inline  {url "s3.wrl"}  
+      ]
+    }
+    DEF TVC Transform {
+      translation 2.064 -0.4533 0.02276
+      children [
+		  Inline  {url "s6.wrl"}
+      ]
+    }

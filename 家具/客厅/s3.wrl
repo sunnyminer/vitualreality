@@ -1,0 +1,40 @@
+#VRML V2.0 utf8
+
+        Shape {
+            appearance Appearance {
+              material DEF TVD-MATERIAL Material {
+                diffuseColor 0 0 0
+                ambientIntensity 1.0
+                specularColor 0 0 0
+                shininess 0.2875
+                transparency 0
+                emissiveColor 1 1 1
+              }
+                            texture ImageTexture {
+                url "maps/»­001.jpg"
+              }
+              textureTransform TextureTransform {center 0.5 0.5}
+            }
+            geometry DEF TVD-FACES IndexedFaceSet {
+              ccw TRUE
+              solid TRUE
+              coord DEF TVD-COORD Coordinate { point [
+                -0.008756 -0.05555 -0.02847, -0.008756 -0.05555 0.02847, 
+                0.008756 0.05555 -0.02847, 0.008756 0.05555 0.02847, 
+                -0.008756 -0.05555 -0.02847, -0.008756 -0.05555 0.02847, 
+                0.008756 0.05555 -0.02847, 0.008756 0.05555 0.02847]
+              }
+              texCoord DEF TVD-TEXCOORD TextureCoordinate { point [
+                0 0, 1 0, 0 1, 1 1, 0 0, 1 0, 0 1, 1 1, 0 0, 1 0, 
+                0 1, 1 1]
+              }
+              coordIndex [
+                0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+              texCoordIndex [
+                9, 11, 10, -1, 10, 8, 9, -1, 8, 9, 11, -1, 11, 10, 8, -1, 
+                0, 0, 0, -1, 0, 0, 0, -1, 0, 1, 1, -1, 1, 0, 0, -1, 
+                1, 1, 1, -1, 1, 1, 1, -1, 1, 0, 0, -1, 0, 1, 1, -1]
+              }
+          }

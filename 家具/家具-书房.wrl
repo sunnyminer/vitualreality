@@ -1,0 +1,13 @@
+#VRML V2.0 utf8
+
+ 
+   	  Inline	{url "./书房/书架.wrl"}
+	  Inline	{url "./书房/皮椅.wrl"}
+	  Inline	{url "./书房/书01.wrl"}
+	  Inline	{url "./书房/书02.wrl"}
+	  Inline	{url "./书房/书03.wrl"}
+	  Inline	{url "./书房/书04.wrl"}
+	  Inline	{url "./书房/鼠标鼠标垫键盘.wrl"}
+	  Inline	{url "./书房/电脑显示器.wrl"}
+		
+

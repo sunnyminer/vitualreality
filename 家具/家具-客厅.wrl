@@ -1,0 +1,30 @@
+#VRML V2.0 utf8
+  		  Inline  {url "./客厅/花瓶棕.wrl"}
+		  Inline  {url "./客厅/电视柜客厅.wrl"} 
+		  Inline  {url "./客厅/插花.wrl"}
+ 		  Inline  {url "./客厅/书B.wrl"}
+ 		  Inline  {url "./客厅/书.wrl"}
+		  Inline  {url "./客厅/茶几顶面.wrl"}
+		  Inline  {url "./客厅/茶几底面.wrl"}
+		  Inline  {url "./客厅/沙发垫A.wrl"}
+		  Inline  {url "./客厅/沙发垫B.wrl"}
+		  Inline  {url "./客厅/沙发垫C.wrl"}
+		  Inline  {url "./客厅/沙发靠背A.wrl"}
+		  Inline  {url "./客厅/沙发靠背B.wrl"}
+		  Inline  {url "./客厅/沙发靠背C.wrl"}
+		  Inline  {url "./客厅/沙发底A.wrl"}
+		  Inline  {url "./客厅/沙发底B.wrl"}
+		  Inline  {url "./客厅/沙发底C.wrl"}
+		  Inline  {url "./客厅/沙发靠枕B.wrl"}
+
+
+	 DEF NPC_KT Transform {
+  translation -20.88 0.8539 -0.5589
+  children  [Inline  {url "./客厅/相框.wrl"}]
+}
+	 
+ Inline { url "./客厅/电视-客厅.wrl"}   
+
+
+
+     
